@@ -8,3 +8,4 @@
 [link](https://towardsdatascience.com/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74)
 
 3.) A data science topic that I would like to pursue would be finding out what causes traffic, in terms of road design, here in the NCR and the surrounding regions. The data I would like to use would be coming from apps like Google maps and Waze that show us where there are traffic and how to avoid them. Knowing where the traffic start  we can then check that place and analyse what could be the underlying issue would be, rather than relying on road widening. The Statistical method that will be utilized here would be Prescriptive analysis. Anyone who travels could benefit from this because of the reduced travel time if it will be implemented properly.
+

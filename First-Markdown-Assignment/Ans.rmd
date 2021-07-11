@@ -1,0 +1,7 @@
+# Agbayani, Cezar Jr. R.
+
+1.) Data is essential to study as it helps organize records of work, which then leads to analysis. With the use of mathematics, data scientists can interpret data to then give insights to their work and provide solutions to their underlying research.
+
+2.) One excellent used of data science, which is really famous, but ironically remains unnoticed, is the auto-complete/correct that we use in our day-to-day used of technology. The feature helps the users to determine the next word that will be used and also helps fix the grammar. [link](https://towardsdatascience.com/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74)
+
+3.) As a college student, one topic that I'm really interested in, that requires the use of data science, is a program that assists in grammar, which essentially is what I have stated earlier, *autocorrect*. Though we have softwares today that are dedicated to that, like grammarly for example, I feel like they could still use some improvement/s. The data that would be used for the project would come from the available data of written academic papers online that is collected by the various sites from the inputs of users. The data would then be studied and analyzed with the use of **predictive analysis** which is best used when it comes to analyzing trends and the likelihood of a result happening. The project would be beneficial not only to college students like me who are having difficulties and struggle with academic papers but also to other users who do written-works.
