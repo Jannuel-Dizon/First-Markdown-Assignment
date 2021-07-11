@@ -1,0 +1,7 @@
+#Dy, Redd Aleeson C.
+
+1.) One reason data analysis is so important is that it can be used to both identify and solve problems in the world. Data gives insightful information on things such as what problems might arise and it is also through data that one can find solutions to these problems.
+
+2.) A large application of data science in day-to-day decisions is helping us search for things to buy online. Data is taken from the user to determine their interests, hobbies, etc and products related to those are shown first over other products. A lot of the time if you search for something online then visit a site like Amazon or Lazada, you will see products related to your search on the front page recommended by the website. 
+
+3.) An interesting topic in data science is artificial intelligence which is in vague terms concerned with the use of machines to solve complex problems. The availability of artificial intelligence is dependent on what one chooses to use it for; but for the most part a lot of data is readily available to anyone those who want it. A big part of artificial intelligence is the automation of tasks ranging from jobs like packing boxes to driving cars and flying planes. This automation is beneficial for a lot of people since it reduces the cost of labor for companies.
