@@ -1,11 +1,36 @@
-## First Markdown Assignment
+# First Markdown Assignment
 
-# Dizon, Jannuel Lauro T.
+## Agbayani, Cezar Jr. R.
 
-1.) The reason we need to study and analyze data
+1.) Data is essential to study as it helps organize records of work, which then leads to analysis. With the use of mathematics, data scientists can interpret data to then give insights to their work and provide solutions to their underlying research.
+
+2.) One excellent used of data science, which is really famous, but ironically remains unnoticed, is the auto-complete/correct that we use in our day-to-day used of technology. The feature helps the users to determine the next word that will be used and also helps fix the grammar. [link](https://towardsdatascience.com/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74)
+
+3.) As a college student, one topic that I'm really interested in, that requires the use of data science, is a program that assists in grammar, which essentially is what I have stated earlier, *autocorrect*. Though we have softwares today that are dedicated to that, like grammarly for example, I feel like they could still use some improvement/s. The data that would be used for the project would come from the available data of written academic papers online that is collected by the various sites from the inputs of users. The data would then be studied and analyzed with the use of **predictive analysis** which is best used when it comes to analyzing trends and the likelihood of a result happening. The project would be beneficial not only to college students like me who are having difficulties and struggle with academic papers but also to other users who do written-works.
+
+## Dizon, Jannuel Lauro T.
+
+1.) The reason we need to study and analyze data is that we will be able to create a better living conditions for everyone. with the proper use of this data we can be able to predict and prevent events that can harm the population.
 
 2.) One application of data science in the day to day life would be Virtual Assitant with the likes of Google, Siri, Alexa, Bixby, and many others. Virtual Assistant uses voice commands to perform task requested by the user like what is weather today or what are some recipe for a cake.
 [link](https://towardsdatascience.com/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74)
 
 3.) A data science topic that I would like to pursue would be finding out what causes traffic, in terms of road design, here in the NCR and the surrounding regions. The data I would like to use would be coming from apps like Google maps and Waze that show us where there are traffic and how to avoid them. Knowing where the traffic start  we can then check that place and analyse what could be the underlying issue would be, rather than relying on road widening. The Statistical method that will be utilized here would be Prescriptive analysis. Anyone who travels could benefit from this because of the reduced travel time if it will be implemented properly.
 
+
+## Dy, Redd Aleeson C.
+
+1.) One reason data analysis is so important is that it can be used to both identify and solve problems in the world. Data gives insightful information on things such as what problems might arise and it is also through data that one can find solutions to these problems.
+
+2.) A large application of data science in day-to-day decisions is helping us search for things to buy online. Data is taken from the user to determine their interests, hobbies, etc and products related to those are shown first over other products. A lot of the time if you search for something online then visit a site like Amazon or Lazada, you will see products related to your search on the front page recommended by the website. 
+
+3.) An interesting topic in data science is artificial intelligence which is in vague terms concerned with the use of machines to solve complex problems. The availability of artificial intelligence is dependent on what one chooses to use it for; but for the most part a lot of data is readily available to anyone those who want it. A big part of artificial intelligence is the automation of tasks ranging from jobs like packing boxes to driving cars and flying planes. This automation is beneficial for a lot of people since it reduces the cost of labor for companies.
+
+## Pagcatipunan, Ryan P
+
+1.) One reason why we need to study data is the fact that we can understand how patterns emerge  from data about our lives and use these patterns to our advantage
+
+2.) Data science could be applied in the field of finances. It could help make decisions such as stock market prediction and it could also show a financial report for individuals
+[link](https://towardsdatascience.com/10-awesome-real-world-applications-of-data-science-and-ai-6fddf3f34d74)
+
+3.) I believe it would be interesting if we could apply data science to arts like artworks and music. This could be useful to companies that would like to cater to younger audiences. Data science could be used to understand the patterns of trending art and how these trends form. This could also be useful to art professionals and musicians who would want to understand why art and music differs from traditional art and music. Culture studies could benefit from data science because it gives another way to show how our culture of art and music is evolving from previous forms
